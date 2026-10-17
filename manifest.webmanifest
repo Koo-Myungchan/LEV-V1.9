@@ -1,0 +1,1 @@
+{"name":"국소배기장치 설계 계산기","short_name":"후드 덕트 계산기","description":"후드 필요환기량, 덕트 이론 내경, 상용 규격, 실제 반송속도 및 속도압 계산","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f0f4f8","theme_color":"#16466d","lang":"ko","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
